@@ -14,3 +14,8 @@ function newFeatureAdd(){
     console.log('This is a new feat')
     console.log('This is a new feat2')
 }
+
+function newFeatureAddB(){
+    console.log('This is a new feat')
+    console.log('This is a new feat B')
+}
